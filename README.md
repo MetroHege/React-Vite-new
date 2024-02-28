@@ -1,5 +1,6 @@
 # Hybrid Apps - React example
 
+Tehty uusi repo, koska vanha aivan vituillaan.
 Open [this link in browser](https://users.metropolia.fi/~henriole/hybridisovellukset/React-Graphql/) to see the app in action.
 
 ---
